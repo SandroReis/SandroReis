@@ -58,24 +58,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroReis&layout=compact)](https://github.com/SandroReis/SandroReis)
 
-<p align="center">
-    <strong>📫 How to reach me: </strong>
-</p>
-
-<ul align="center">
-<col>
-   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sandrouh3@gmail.com"/>
-</col>
-<col>
-    <a href="https://twitter.com/uordnas">
-    <img alt="Twitter" src="https://img.shields.io/badge/vin_camp%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</col>
-<col>
-<a href="https://www.linkedin.com/in/sandro-ricardo-dos-reis-08a491159/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</col>
-</ul>
-
 <!--ul align="center">
     <col>
        <img src="https://visitor-badge.laobi.icu/badge?page_id=SandroReis.SandroReis"/>
