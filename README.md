@@ -46,9 +46,6 @@
 <col>
     <img alt="ReactNativeJS" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
 </col>
-<col>
-    <img alt="Ethereum" src="https://img.shields.io/badge/ETH-Ethereum-lightgrey"/>
-</col>
 </ul>
 
 
